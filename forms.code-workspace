@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Assignment5/Images/form pics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "forms"
+	}
+}
